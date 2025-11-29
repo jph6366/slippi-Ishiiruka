@@ -2,7 +2,7 @@
 
 This repo is a fork of [vladfi1's fork of Slippi](https://github.com/vladfi1/slippi-Ishiiruka/tree/exi-ai-rebase), which supports FFW, headless emulation, and is to be used with a [specific version of libmelee](https://github.com/vladfi1/libmelee). Please refer to those repos for more information. Existing instructions were incompatible with Ubuntu 20.04 or running on dockerized containers, so I've included my own here.
 
-# How to build on Ubuntu 20.04 LTS in Docker
+# How to build on Ubuntu 22.04 LTS in Docker
 
 ```shell
 # Install deps
